@@ -1,0 +1,322 @@
+html { 
+	height: 100%;
+	margin: 0;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	/* these are for a responsive menu */
+  -webkit-animation: bugfix infinite 1s;
+          animation: bugfix infinite 1s;
+  /* needed for checkbox hack */
+  /*background: #021320;*/
+}
+
+h1, h2, h3 {
+	color: rgba(125,125,125,1);
+}
+
+code {
+  border: 1px solid #555555;
+  background-color: #eeeeee;
+  color: #880000;
+  padding: 7px;
+}
+
+/*
+ * BEM BUTTONS (with state)
+ * =========================================== */
+.bem-button {
+  background-image: linear-gradient(#EEEEEE, #DDDDDD);
+  border: 1px solid #D5D5D5;
+  border-radius: 2px;
+  cursor: pointer;
+  display: inline-block;
+  font: 700 13px/18px Helvetica, arial;
+  padding: 7px 12px;
+  text-decoration: none;
+}
+
+.bem-button:hover {
+  background-image: linear-gradient(#DDDDDD, #BBBBBB);
+  border: 1px solid #B5B5B5;
+  border-radius: 2px;
+  cursor: pointer;
+  display: inline-block;
+  font: 700 13px/18px Helvetica, arial;
+  padding: 7px 12px;
+  text-decoration: none;
+}
+
+.button--state-default {
+  color: #555555;
+  background: #bbbbbb linear-gradient(#d5d5d5, #bbbbbb) repeat-x;
+  border-color: #a5a5a5;
+  text-decoration: none;
+}
+
+.button--state-default:hover {
+  color: #444444;
+  background: #a3a3a3 linear-gradient(#c5c5c5, #a3a3a3) repeat-x;
+  border-color: #999999;
+  text-decoration: none;
+}
+
+.button--state-primary {
+  color: #FFFFFF;
+  background: #3671CE linear-gradient(#5B90E3, #3671CE) repeat-x;
+  border-color: #2858A4;
+  text-decoration: none;
+}
+
+.button--state-primary:hover {
+  color: #FFFFFF;
+  background: #286090 linear-gradient(#4E7ECB, #286090) repeat-x;
+  border-color: #204D74;
+  text-decoration: none;
+}
+
+.button--state-success {
+  color: #FFFFFF;
+  background: #569E3D linear-gradient(#79D858, #569E3D) repeat-x;
+  border-color: #4A993E;
+  text-decoration: none;
+}
+.button--state-success:hover {
+  color: #FFFFFF;
+  background: #569E3D linear-gradient(#6CBE4F, #4A8635) repeat-x;
+  border-color: #418536;
+  text-decoration: none;
+}
+
+.button--state-warning {
+  color: #FF4D00;
+}
+
+.button--state-warning:hover {
+  border-color: #FECBB5;
+}
+
+.button--state-danger {
+  color: #990000;
+}
+
+.button--state-danger:hover {
+  border-color: #DFB1B1;
+}
+.btn-large {
+  padding: 1em 2.1em;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+.btn-large:hover {
+  padding: 1em 2.1em;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+.btn-large:focus {
+  padding: 1em 2.1em;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+
+.wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+.wrapper > * {
+  flex: 1 100%;
+}
+
+.header {
+	background-color: rgba(220,220,220,1);
+  padding: 5px 5px 5px 10px;
+}
+.header-h1 {
+  font-family: 'Calibri', Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.page-footer {
+  background-color: #E5E5E5;
+  color: #666666;
+  padding-bottom: 30px;
+  width: 100%;
+}
+.footer-grad-30 {
+  height: 30px; margin: 0;
+  background-color: #E5E5E5;
+  background-image: -webkit-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:    -moz-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:     -ms-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:      -o-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:         linear-gradient(top,#B5B5B5,#E5E5E5);
+}
+.footer-p {
+  color: #555555;
+  text-align: center;
+}
+.footerBackground {
+  background-color: #C8C8C8;
+  margin: 70px 0 0 0;
+  padding: 0 0 30px 0;
+}
+.footerCopyright {
+  padding: 20px 0;
+}
+.footerBkgnd {
+  background-color: #B1DEE8;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#B0EAB7),to(#B1DEE8));
+  background-image: -webkit-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:    -moz-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:     -ms-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:      -o-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:         linear-gradient(top,#B0EAB7,#B1DEE8);
+}
+.footer-p a {
+  color: #555555;
+  text-decoration: none;
+}
+.footer-p a:hover {
+  color: #333333;
+  text-decoration: none;
+}
+.page-footer-logo {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.main {
+  background-color: #f3f3f3;
+  padding: 5px 20px 10px 20px;
+  text-align: left;
+  max-width: 100%;
+}
+
+.aside-1 {
+  background-color: #1a5167;
+  min-width: 100px;
+  max-width: 100%;
+}
+
+.aside-2 {
+  background-color: #e5e5e5;
+  max-width: 250px;
+  min-width: 100px;
+  padding: 10px;
+}
+
+
+.recent-posts {
+  margin-top: -40px;
+  padding-bottom: 30px;
+}
+
+
+/* FORM STUFF */
+.post-form input[type=text] {
+  border: 1px solid #cccccc;
+  border-bottom: 1px solid #dddddd;
+  margin: 5px 0 5px 0;
+  padding: 8px 0 8px 8px;
+  outline: none;
+  width: calc(100% - 8px);
+}
+.post-form select {
+  border: 1px solid #cccccc;
+  border-bottom: 1px solid #dddddd;
+  margin: 5px 0 5px 0;
+  padding: 8px 0 8px 8px;
+  outline: none;
+  width: 100%;
+}
+.post-form input:hover,
+.post-form select:hover {
+  border: 1px solid #2d7fa0;
+  border-bottom: 1px solid #286c88;
+  outline: none;
+}
+.post-form input:focus,
+.post-form select:focus {
+  border: 1px solid #999999;
+  border-bottom: 1px solid #888888;
+  outline: none;
+}
+
+.form-error {
+  color: #990000;
+  display: none;
+  margin-top: -10px;
+  padding-left: 10px;
+}
+
+@media (max-width: 599px) {
+  .post-form input[type=text] {
+    border: 1px solid #cccccc;
+    border-bottom: 1px solid #dddddd;
+    margin: 5px 0 5px 0;
+    padding: 8px 0 8px 8px;
+    outline: none;
+  width: calc(100% - 8px);
+  }
+  .post-form select {
+    border: 1px solid #cccccc;
+    border-bottom: 1px solid #dddddd;
+    margin: 5px 0 5px 0;
+    padding: 8px 0 8px 8px;
+    outline: none;
+    width: 100%;
+  }
+  .post-form input:hover,
+  .post-form select:hover {
+    border: 1px solid #2d7fa0;
+    border-bottom: 1px solid #286c88;
+    outline: none;
+  }
+  .post-form input:focus,
+  .post-form select:focus {
+    border: 1px solid #999999;
+    border-bottom: 1px solid #888888;
+    outline: none;
+  }
+  .header {
+    display: none;
+  }
+}
+
+@media all and (min-width: 600px) {
+  .aside {
+    flex: 1 auto;
+  }
+}
+
+@media all and (min-width: 800px) {
+  .main {
+    flex: 3 0px;
+  }
+
+  .aside-1 {
+    order: 1;
+    min-width: 100px;
+    max-width: 250px;
+  }
+
+  .main {
+    order: 2;
+  }
+
+  .aside-2 {
+    order: 3;
+  }
+
+  .footer {
+    order: 4;
+  }
+}

@@ -1,0 +1,1863 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<pages>
+		<link>
+			<tag>Press</tag>
+			<tagurl>/tags/1</tagurl>
+		</link>
+		<link>
+			<tag>Media</tag>
+			<tagurl>/tags/2</tagurl>
+		</link>
+		<link>
+			<tag>Drinking Water</tag>
+			<tagurl>/tags/3</tagurl>
+		</link>
+		<link>
+			<tag>Contamination</tag>
+			<tagurl>/tags/4</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Algae</tag>
+			<tagurl>/tags/5</tagurl>
+		</link>
+		<link>
+			<tag>Lead Contamination</tag>
+			<tagurl>/tags/6</tagurl>
+		</link>
+		<link>
+			<tag>Rio 2016</tag>
+			<tagurl>/tags/7</tagurl>
+		</link>
+		<link>
+			<tag>Summer Olympics</tag>
+			<tagurl>/tags/8</tagurl>
+		</link>
+		<link>
+			<tag>Fresh Water Lakes</tag>
+			<tagurl>/tags/9</tagurl>
+		</link>
+		<link>
+			<tag>Florida (U.S.A.)</tag>
+			<tagurl>/tags/10</tagurl>
+		</link>
+		<link>
+			<tag>Colorado (U.S.A.)</tag>
+			<tagurl>/tags/11</tagurl>
+		</link>
+		<link>
+			<tag>Massachusetts (U.S.A.)</tag>
+			<tagurl>/tags/12</tagurl>
+		</link>
+		<link>
+			<tag>Cape Cod, Massachusetts</tag>
+			<tagurl>/tags/13</tagurl>
+		</link>
+		<link>
+			<tag>Boston, MA</tag>
+			<tagurl>/tags/14</tagurl>
+		</link>
+		<link>
+			<tag>Press Release</tag>
+			<tagurl>/tags/15</tagurl>
+		</link>
+		<link>
+			<tag>State of Emergency</tag>
+			<tagurl>/tags/16</tagurl>
+		</link>
+		<link>
+			<tag>Phoenix Revolution, Inc.</tag>
+			<tagurl>/tags/17</tagurl>
+		</link>
+		<link>
+			<tag>Water Quality</tag>
+			<tagurl>/tags/18</tagurl>
+		</link>
+		<link>
+			<tag>Wildfires</tag>
+			<tagurl>/tags/19</tagurl>
+		</link>
+		<link>
+			<tag>Water Advisories</tag>
+			<tagurl>/tags/20</tagurl>
+		</link>
+		<link>
+			<tag>Water Crisis</tag>
+			<tagurl>/tags/21</tagurl>
+		</link>
+		<link>
+			<tag>Washington D.C.</tag>
+			<tagurl>/tags/22</tagurl>
+		</link>
+		<link>
+			<tag>United States</tag>
+			<tagurl>/tags/23</tagurl>
+		</link>
+		<link>
+			<tag>Tainted Water</tag>
+			<tagurl>/tags/24</tagurl>
+		</link>
+		<link>
+			<tag>Swimming</tag>
+			<tagurl>/tags/25</tagurl>
+		</link>
+		<link>
+			<tag>Tap Water</tag>
+			<tagurl>/tags/26</tagurl>
+		</link>
+		<link>
+			<tag>Seattle, Washington</tag>
+			<tagurl>/tags/27</tagurl>
+		</link>
+		<link>
+			<tag>Reservoirs</tag>
+			<tagurl>/tags/28</tagurl>
+		</link>
+		<link>
+			<tag>Rainfall</tag>
+			<tagurl>/tags/29</tagurl>
+		</link>
+		<link>
+			<tag>Potable Water</tag>
+			<tagurl>/tags/30</tagurl>
+		</link>
+		<link>
+			<tag>Portland, Oregon</tag>
+			<tagurl>/tags/31</tagurl>
+		</link>
+		<link>
+			<tag>Water Pollution</tag>
+			<tagurl>/tags/32</tagurl>
+		</link>
+		<link>
+			<tag>Politics</tag>
+			<tagurl>/tags/33</tagurl>
+		</link>
+		<link>
+			<tag>PFOA</tag>
+			<tagurl>/tags/34</tagurl>
+		</link>
+		<link>
+			<tag>PFOS</tag>
+			<tagurl>/tags/35</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorooctanoic Acid</tag>
+			<tagurl>/tags/36</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorooctane Sulfate</tag>
+			<tagurl>/tags/37</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorinated Chemicals</tag>
+			<tagurl>/tags/38</tagurl>
+		</link>
+		<link>
+			<tag>Ohio River</tag>
+			<tagurl>/tags/39</tagurl>
+		</link>
+		<link>
+			<tag>Ohio (U.S.A.)</tag>
+			<tagurl>/tags/40</tagurl>
+		</link>
+		<link>
+			<tag>New York</tag>
+			<tagurl>/tags/41</tagurl>
+		</link>
+		<link>
+			<tag>Natural Resources Defense Council</tag>
+			<tagurl>/tags/42</tagurl>
+		</link>
+		<link>
+			<tag>Mumbai</tag>
+			<tagurl>/tags/43</tagurl>
+		</link>
+		<link>
+			<tag>Multnomah Arts Center</tag>
+			<tagurl>/tags/44</tagurl>
+		</link>
+		<link>
+			<tag>Monsoon</tag>
+			<tagurl>/tags/45</tagurl>
+		</link>
+		<link>
+			<tag>Microcystin</tag>
+			<tagurl>/tags/46</tagurl>
+		</link>
+		<link>
+			<tag>Michigan (U.S.A.)</tag>
+			<tagurl>/tags/47</tagurl>
+		</link>
+		<link>
+			<tag>Mercury</tag>
+			<tagurl>/tags/48</tagurl>
+		</link>
+		<link>
+			<tag>Spanish Fork River</tag>
+			<tagurl>/tags/49</tagurl>
+		</link>
+		<link>
+			<tag>St. Lucie River</tag>
+			<tagurl>/tags/50</tagurl>
+		</link>
+		<link>
+			<tag>Shawnee County</tag>
+			<tagurl>/tags/51</tagurl>
+		</link>
+		<link>
+			<tag>Pyramid Lake</tag>
+			<tagurl>/tags/52</tagurl>
+		</link>
+		<link>
+			<tag>Pudget Sound</tag>
+			<tagurl>/tags/53</tagurl>
+		</link>
+		<link>
+			<tag>Peterson Air Force Base</tag>
+			<tagurl>/tags/54</tagurl>
+		</link>
+		<link>
+			<tag>Naegleria Fowleri</tag>
+			<tagurl>/tags/55</tagurl>
+		</link>
+		<link>
+			<tag>Maumee River</tag>
+			<tagurl>/tags/56</tagurl>
+		</link>
+		<link>
+			<tag>Marion County</tag>
+			<tagurl>/tags/57</tagurl>
+		</link>
+		<link>
+			<tag>Louisianna</tag>
+			<tagurl>/tags/58</tagurl>
+		</link>
+		<link>
+			<tag>Los Angeles, California</tag>
+			<tagurl>/tags/59</tagurl>
+		</link>
+		<link>
+			<tag>Little Cottonwood Creek</tag>
+			<tagurl>/tags/60</tagurl>
+		</link>
+		<link>
+			<tag>Lake Okeechobee</tag>
+			<tagurl>/tags/61</tagurl>
+		</link>
+		<link>
+			<tag>Lake Erie</tag>
+			<tagurl>/tags/62</tagurl>
+		</link>
+		<link>
+			<tag>Lake Afton</tag>
+			<tagurl>/tags/63</tagurl>
+		</link>
+		<link>
+			<tag>Kansas (U.S.A.)</tag>
+			<tagurl>/tags/64</tagurl>
+		</link>
+		<link>
+			<tag>Kandal</tag>
+			<tagurl>/tags/65</tagurl>
+		</link>
+		<link>
+			<tag>Jordan River</tag>
+			<tagurl>/tags/66</tagurl>
+		</link>
+		<link>
+			<tag>Indian River Lagoon</tag>
+			<tagurl>/tags/67</tagurl>
+		</link>
+		<link>
+			<tag>India</tag>
+			<tagurl>/tags/68</tagurl>
+		</link>
+		<link>
+			<tag>Illinoise (U.S.A.)</tag>
+			<tagurl>/tags/69</tagurl>
+		</link>
+		<link>
+			<tag>Hyannis, Massachusetts</tag>
+			<tagurl>/tags/70</tagurl>
+		</link>
+		<link>
+			<tag>Hoosick Falls</tag>
+			<tagurl>/tags/71</tagurl>
+		</link>
+		<link>
+			<tag>Heat Wave</tag>
+			<tagurl>/tags/72</tagurl>
+		</link>
+		<link>
+			<tag>Health Canada</tag>
+			<tagurl>/tags/73</tagurl>
+		</link>
+		<link>
+			<tag>Health Advisory</tag>
+			<tagurl>/tags/74</tagurl>
+		</link>
+		<link>
+			<tag>Gulf Coast</tag>
+			<tagurl>/tags/75</tagurl>
+		</link>
+		<link>
+			<tag>Guatemala</tag>
+			<tagurl>/tags/76</tagurl>
+		</link>
+		<link>
+			<tag>Gov. Rick Scott</tag>
+			<tagurl>/tags/77</tagurl>
+		</link>
+		<link>
+			<tag>Geary County</tag>
+			<tagurl>/tags/78</tagurl>
+		</link>
+		<link>
+			<tag>Fountain Colorado</tag>
+			<tagurl>/tags/79</tagurl>
+		</link>
+		<link>
+			<tag>Fort Lauderdale, Florida</tag>
+			<tagurl>/tags/80</tagurl>
+		</link>
+		<link>
+			<tag>Florida Dept. of Environmental Protection</tag>
+			<tagurl>/tags/81</tagurl>
+		</link>
+		<link>
+			<tag>Flint, Michigan</tag>
+			<tagurl>/tags/82</tagurl>
+		</link>
+		<link>
+			<tag>Fiveash Water Treatment Plant</tag>
+			<tagurl>/tags/83</tagurl>
+		</link>
+		<link>
+			<tag>Fecal Coliform</tag>
+			<tagurl>/tags/84</tagurl>
+		</link>
+		<link>
+			<tag>EPA</tag>
+			<tagurl>/tags/85</tagurl>
+		</link>
+		<link>
+			<tag>Environmental Protection Agency</tag>
+			<tagurl>/tags/86</tagurl>
+		</link>
+		<link>
+			<tag>E. Coli</tag>
+			<tagurl>/tags/87</tagurl>
+		</link>
+		<link>
+			<tag>Duke Energy</tag>
+			<tagurl>/tags/88</tagurl>
+		</link>
+		<link>
+			<tag>Dickson County</tag>
+			<tagurl>/tags/89</tagurl>
+		</link>
+		<link>
+			<tag>Dehradun</tag>
+			<tagurl>/tags/90</tagurl>
+		</link>
+		<link>
+			<tag>Defiance County</tag>
+			<tagurl>/tags/91</tagurl>
+		</link>
+		<link>
+			<tag>Defiance City Reservoir</tag>
+			<tagurl>/tags/92</tagurl>
+		</link>
+		<link>
+			<tag>Deadly Bugs</tag>
+			<tagurl>/tags/93</tagurl>
+		</link>
+		<link>
+			<tag>Data Cover-up</tag>
+			<tagurl>/tags/94</tagurl>
+		</link>
+		<link>
+			<tag>Cyanobacteria</tag>
+			<tagurl>/tags/95</tagurl>
+		</link>
+		<link>
+			<tag>Copper</tag>
+			<tagurl>/tags/96</tagurl>
+		</link>
+		<link>
+			<tag>Contaminated Water</tag>
+			<tagurl>/tags/97</tagurl>
+		</link>
+		<link>
+			<tag>Colorado Springs</tag>
+			<tagurl>/tags/98</tagurl>
+		</link>
+		<link>
+			<tag>Clean Water Act</tag>
+			<tagurl>/tags/99</tagurl>
+		</link>
+		<link>
+			<tag>Chlorine</tag>
+			<tagurl>/tags/100</tagurl>
+		</link>
+		<link>
+			<tag>Chemicals</tag>
+			<tagurl>/tags/101</tagurl>
+		</link>
+		<link>
+			<tag>Castaic</tag>
+			<tagurl>/tags/102</tagurl>
+		</link>
+		<link>
+			<tag>Cannon House Office Building</tag>
+			<tagurl>/tags/103</tagurl>
+		</link>
+		<link>
+			<tag>Cancer</tag>
+			<tagurl>/tags/104</tagurl>
+		</link>
+		<link>
+			<tag>Canada</tag>
+			<tagurl>/tags/105</tagurl>
+		</link>
+		<link>
+			<tag>Cambodia</tag>
+			<tagurl>/tags/106</tagurl>
+		</link>
+		<link>
+			<tag>California (U.S.A.)</tag>
+			<tagurl>/tags/107</tagurl>
+		</link>
+		<link>
+			<tag>Brain-eating Amoeba</tag>
+			<tagurl>/tags/108</tagurl>
+		</link>
+		<link>
+			<tag>Boil Water Order</tag>
+			<tagurl>/tags/109</tagurl>
+		</link>
+		<link>
+			<tag>Beneficial Drinking Water</tag>
+			<tagurl>/tags/110</tagurl>
+		</link>
+		<link>
+			<tag>Belgrade</tag>
+			<tagurl>/tags/111</tagurl>
+		</link>
+		<link>
+			<tag>Barnstable, Massachusetts</tag>
+			<tagurl>/tags/112</tagurl>
+		</link>
+		<link>
+			<tag>Atlantic Coast (U.S.A.)</tag>
+			<tagurl>/tags/113</tagurl>
+		</link>
+		<link>
+			<tag>Arsenic</tag>
+			<tagurl>/tags/114</tagurl>
+		</link>
+		<link>
+			<tag>Algae</tag>
+			<tagurl>/tags/115</tagurl>
+		</link>
+		<link>
+			<tag>Alberta, Canada</tag>
+			<tagurl>/tags/116</tagurl>
+		</link>
+		<link>
+			<tag>Alabama (U.S.A.)</tag>
+			<tagurl>/tags/117</tagurl>
+		</link>
+		<link>
+			<tag>Petroleum</tag>
+			<tagurl>/tags/118</tagurl>
+		</link>
+		<link>
+			<tag>Fracking</tag>
+			<tagurl>/tags/119</tagurl>
+		</link>
+		<link>
+			<tag>Hydraulic Fracking</tag>
+			<tagurl>/tags/120</tagurl>
+		</link>
+		<link>
+			<tag>Sulfuric Acid</tag>
+			<tagurl>/tags/121</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Chemicals</tag>
+			<tagurl>/tags/122</tagurl>
+		</link>
+		<link>
+			<tag>CNN</tag>
+			<tagurl>/tags/123</tagurl>
+		</link>
+		<link>
+			<tag>2016 Olympics</tag>
+			<tagurl>/tags/124</tagurl>
+		</link>
+		<link>
+			<tag>Rio De Janeiro</tag>
+			<tagurl>/tags/125</tagurl>
+		</link>
+		<link>
+			<tag>Lawrence County</tag>
+			<tagurl>/tags/126</tagurl>
+		</link>
+		<link>
+			<tag>Morgan County</tag>
+			<tagurl>/tags/127</tagurl>
+		</link>
+		<link>
+			<tag>West Morgan-East Lawrence Water Authority</tag>
+			<tagurl>/tags/128</tagurl>
+		</link>
+		<link>
+			<tag>3M Company</tag>
+			<tagurl>/tags/129</tagurl>
+		</link>
+		<link>
+			<tag>Dyneon, LLC</tag>
+			<tagurl>/tags/130</tagurl>
+		</link>
+		<link>
+			<tag>Daikin America, Inc</tag>
+			<tagurl>/tags/131</tagurl>
+		</link>
+		<link>
+			<tag>Tennessee (U.S.A.)</tag>
+			<tagurl>/tags/132</tagurl>
+		</link>
+		<link>
+			<tag>Polyfluoroalkyl</tag>
+			<tagurl>/tags/133</tagurl>
+		</link>
+		<link>
+			<tag>PFAS</tag>
+			<tagurl>/tags/134</tagurl>
+		</link>
+		<link>
+			<tag>Children's Health Problems</tag>
+			<tagurl>/tags/135</tagurl>
+		</link>
+		<link>
+			<tag>School Water</tag>
+			<tagurl>/tags/136</tagurl>
+		</link>
+		<link>
+			<tag>Perfluoroalkyl</tag>
+			<tagurl>/tags/137</tagurl>
+		</link>
+		<link>
+			<tag>Environmental Science and Technology Letters</tag>
+			<tagurl>/tags/138</tagurl>
+		</link>
+		<link>
+			<tag>Salt River Pima-Maricopa Indian Community</tag>
+			<tagurl>/tags/139</tagurl>
+		</link>
+		<link>
+			<tag>Harvard University</tag>
+			<tagurl>/tags/140</tagurl>
+		</link>
+		<link>
+			<tag>New Zealand</tag>
+			<tagurl>/tags/141</tagurl>
+		</link>
+		<link>
+			<tag>Havelock North Town</tag>
+			<tagurl>/tags/142</tagurl>
+		</link>
+		<link>
+			<tag>Bacteria</tag>
+			<tagurl>/tags/143</tagurl>
+		</link>
+		<link>
+			<tag>Campylobacter Bacteria</tag>
+			<tagurl>/tags/144</tagurl>
+		</link>
+		<link>
+			<tag>Food Poisoning</tag>
+			<tagurl>/tags/145</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorooctane Sulfonate</tag>
+			<tagurl>/tags/146</tagurl>
+		</link>
+		<link>
+			<tag>Fluorocarbon Surfactant</tag>
+			<tagurl>/tags/147</tagurl>
+		</link>
+		<link>
+			<tag>U.C. Berkeley</tag>
+			<tagurl>/tags/148</tagurl>
+		</link>
+		<link>
+			<tag>Carcinogen</tag>
+			<tagurl>/tags/149</tagurl>
+		</link>
+		<link>
+			<tag>Firefighting foam</tag>
+			<tagurl>/tags/150</tagurl>
+		</link>
+		<link>
+			<tag>aqueous film-foaming foams</tag>
+			<tagurl>/tags/151</tagurl>
+		</link>
+		<link>
+			<tag>AFFF's</tag>
+			<tagurl>/tags/152</tagurl>
+		</link>
+		<link>
+			<tag>kidney cancer</tag>
+			<tagurl>/tags/153</tagurl>
+		</link>
+		<link>
+			<tag>testicular cancer</tag>
+			<tagurl>/tags/154</tagurl>
+		</link>
+		<link>
+			<tag>high cholesterol</tag>
+			<tagurl>/tags/155</tagurl>
+		</link>
+		<link>
+			<tag>obesity</tag>
+			<tagurl>/tags/156</tagurl>
+		</link>
+		<link>
+			<tag>endocrine disruption</tag>
+			<tagurl>/tags/157</tagurl>
+		</link>
+		<link>
+			<tag>Pennsylvania (U.S.A.)</tag>
+			<tagurl>/tags/158</tagurl>
+		</link>
+		<link>
+			<tag>Bucks County</tag>
+			<tagurl>/tags/159</tagurl>
+		</link>
+		<link>
+			<tag>Montgomery County</tag>
+			<tagurl>/tags/160</tagurl>
+		</link>
+		<link>
+			<tag>Air Force</tag>
+			<tagurl>/tags/161</tagurl>
+		</link>
+		<link>
+			<tag>Herbicide</tag>
+			<tagurl>/tags/162</tagurl>
+		</link>
+		<link>
+			<tag>Massachusetts Department of Agricultural Resources</tag>
+			<tagurl>/tags/163</tagurl>
+		</link>
+		<link>
+			<tag>Ground Water</tag>
+			<tagurl>/tags/164</tagurl>
+		</link>
+		<link>
+			<tag>Ottawa River</tag>
+			<tagurl>/tags/165</tagurl>
+		</link>
+		<link>
+			<tag>Ottawa</tag>
+			<tagurl>/tags/166</tagurl>
+		</link>
+		<link>
+			<tag>Ottawa River Action Plan</tag>
+			<tagurl>/tags/167</tagurl>
+		</link>
+		<link>
+			<tag>Waste water</tag>
+			<tagurl>/tags/168</tagurl>
+		</link>
+		<link>
+			<tag>Sinkholes</tag>
+			<tagurl>/tags/169</tagurl>
+		</link>
+		<link>
+			<tag>Mosaic</tag>
+			<tagurl>/tags/170</tagurl>
+		</link>
+		<link>
+			<tag>Gypsum stack</tag>
+			<tagurl>/tags/171</tagurl>
+		</link>
+		<link>
+			<tag>Fertilizer</tag>
+			<tagurl>/tags/172</tagurl>
+		</link>
+		<link>
+			<tag>New Jersey</tag>
+			<tagurl>/tags/173</tagurl>
+		</link>
+		<link>
+			<tag>Oregon</tag>
+			<tagurl>/tags/174</tagurl>
+		</link>
+		<link>
+			<tag>University of Oregon</tag>
+			<tagurl>/tags/175</tagurl>
+		</link>
+		<link>
+			<tag>Eugene, Oregon</tag>
+			<tagurl>/tags/176</tagurl>
+		</link>
+		<link>
+			<tag>Lead</tag>
+			<tagurl>/tags/177</tagurl>
+		</link>
+		<link>
+			<tag>Dallas, Texas</tag>
+			<tagurl>/tags/178</tagurl>
+		</link>
+		<link>
+			<tag>Texas</tag>
+			<tagurl>/tags/179</tagurl>
+		</link>
+		<link>
+			<tag>Fort Worth, Texas</tag>
+			<tagurl>/tags/180</tagurl>
+		</link>
+		<link>
+			<tag>Dallas/Fort Worth</tag>
+			<tagurl>/tags/181</tagurl>
+		</link>
+		<link>
+			<tag>Environmental Integrity Project</tag>
+			<tagurl>/tags/182</tagurl>
+		</link>
+		<link>
+			<tag>San Joaquin Valley</tag>
+			<tagurl>/tags/183</tagurl>
+		</link>
+		<link>
+			<tag>Bergen Country</tag>
+			<tagurl>/tags/184</tagurl>
+		</link>
+		<link>
+			<tag>Passaic County</tag>
+			<tagurl>/tags/185</tagurl>
+		</link>
+		<link>
+			<tag>Hexavalent Chromium</tag>
+			<tagurl>/tags/186</tagurl>
+		</link>
+		<link>
+			<tag>Chicago</tag>
+			<tagurl>/tags/187</tagurl>
+		</link>
+		<link>
+			<tag>Milwaukee</tag>
+			<tagurl>/tags/188</tagurl>
+		</link>
+		<link>
+			<tag>Philadelphia</tag>
+			<tagurl>/tags/189</tagurl>
+		</link>
+		<link>
+			<tag>Pittsburgh</tag>
+			<tagurl>/tags/190</tagurl>
+		</link>
+		<link>
+			<tag>Denver</tag>
+			<tagurl>/tags/191</tagurl>
+		</link>
+		<link>
+			<tag>St. Paul</tag>
+			<tagurl>/tags/192</tagurl>
+		</link>
+		<link>
+			<tag>Erin Brockovich</tag>
+			<tagurl>/tags/193</tagurl>
+		</link>
+		<link>
+			<tag>Environmental Working Group</tag>
+			<tagurl>/tags/194</tagurl>
+		</link>
+		<link>
+			<tag>Chromium-6</tag>
+			<tagurl>/tags/195</tagurl>
+		</link>
+		<link>
+			<tag>Delaware</tag>
+			<tagurl>/tags/196</tagurl>
+		</link>
+		<link>
+			<tag>Chromium</tag>
+			<tagurl>/tags/197</tagurl>
+		</link>
+		<link>
+			<tag>Chromium-3</tag>
+			<tagurl>/tags/198</tagurl>
+		</link>
+		<link>
+			<tag>blood sugar</tag>
+			<tagurl>/tags/199</tagurl>
+		</link>
+		<link>
+			<tag>Lough Mask Water Treatment Plant</tag>
+			<tagurl>/tags/200</tagurl>
+		</link>
+		<link>
+			<tag>Ireland</tag>
+			<tagurl>/tags/201</tagurl>
+		</link>
+		<link>
+			<tag>Co Mayo</tag>
+			<tagurl>/tags/202</tagurl>
+		</link>
+		<link>
+			<tag>Cryptosporidium</tag>
+			<tagurl>/tags/203</tagurl>
+		</link>
+		<link>
+			<tag>Castlebar</tag>
+			<tagurl>/tags/204</tagurl>
+		</link>
+		<link>
+			<tag>Westport</tag>
+			<tagurl>/tags/205</tagurl>
+		</link>
+		<link>
+			<tag>Claremorris</tag>
+			<tagurl>/tags/206</tagurl>
+		</link>
+		<link>
+			<tag>Ballinrobe</tag>
+			<tagurl>/tags/207</tagurl>
+		</link>
+		<link>
+			<tag>Ballyhaunis</tag>
+			<tagurl>/tags/208</tagurl>
+		</link>
+		<link>
+			<tag>Knock</tag>
+			<tagurl>/tags/209</tagurl>
+		</link>
+		<link>
+			<tag>parasites</tag>
+			<tagurl>/tags/210</tagurl>
+		</link>
+		<link>
+			<tag>Galway</tag>
+			<tagurl>/tags/211</tagurl>
+		</link>
+		<link>
+			<tag>World Health Organization</tag>
+			<tagurl>/tags/212</tagurl>
+		</link>
+		<link>
+			<tag>Palamuru University</tag>
+			<tagurl>/tags/213</tagurl>
+		</link>
+		<link>
+			<tag>Mahabubnagar</tag>
+			<tagurl>/tags/214</tagurl>
+		</link>
+		<link>
+			<tag>Waverly</tag>
+			<tagurl>/tags/215</tagurl>
+		</link>
+		<link>
+			<tag>Virginia</tag>
+			<tagurl>/tags/216</tagurl>
+		</link>
+		<link>
+			<tag>Nova Scotia</tag>
+			<tagurl>/tags/217</tagurl>
+		</link>
+		<link>
+			<tag>RDM Recycling, Ltd.</tag>
+			<tagurl>/tags/218</tagurl>
+		</link>
+		<link>
+			<tag>collapsed bridges</tag>
+			<tagurl>/tags/219</tagurl>
+		</link>
+		<link>
+			<tag>Haiti</tag>
+			<tagurl>/tags/220</tagurl>
+		</link>
+		<link>
+			<tag>Hurricane Matthew</tag>
+			<tagurl>/tags/221</tagurl>
+		</link>
+		<link>
+			<tag>Cholera</tag>
+			<tagurl>/tags/222</tagurl>
+		</link>
+		<link>
+			<tag>Sanitation</tag>
+			<tagurl>/tags/223</tagurl>
+		</link>
+		<link>
+			<tag>Flooding</tag>
+			<tagurl>/tags/224</tagurl>
+		</link>
+		<link>
+			<tag>Caribbean</tag>
+			<tagurl>/tags/225</tagurl>
+		</link>
+		<link>
+			<tag>power outages</tag>
+			<tagurl>/tags/226</tagurl>
+		</link>
+		<link>
+			<tag>Department of Natural Resources</tag>
+			<tagurl>/tags/228</tagurl>
+		</link>
+		<link>
+			<tag>Wisconsin</tag>
+			<tagurl>/tags/229</tagurl>
+		</link>
+		<link>
+			<tag>Luxemburg</tag>
+			<tagurl>/tags/230</tagurl>
+		</link>
+		<link>
+			<tag>Kewaunee County</tag>
+			<tagurl>/tags/231</tagurl>
+		</link>
+		<link>
+			<tag>Chicago Park District</tag>
+			<tagurl>/tags/232</tagurl>
+		</link>
+		<link>
+			<tag>Public Schools</tag>
+			<tagurl>/tags/233</tagurl>
+		</link>
+		<link>
+			<tag>Hepatitis-E</tag>
+			<tagurl>/tags/234</tagurl>
+		</link>
+		<link>
+			<tag>TNHB Colony</tag>
+			<tagurl>/tags/235</tagurl>
+		</link>
+		<link>
+			<tag>Korattur</tag>
+			<tagurl>/tags/236</tagurl>
+		</link>
+		<link>
+			<tag>Pakistan</tag>
+			<tagurl>/tags/237</tagurl>
+		</link>
+		<link>
+			<tag>Professor Dr. Bilal Nasir</tag>
+			<tagurl>/tags/238</tagurl>
+		</link>
+		<link>
+			<tag>Dr. Muhammad Sadiq</tag>
+			<tagurl>/tags/239</tagurl>
+		</link>
+		<link>
+			<tag>Manzoor A. Shaikh</tag>
+			<tagurl>/tags/240</tagurl>
+		</link>
+		<link>
+			<tag>Jameel Gishkori</tag>
+			<tagurl>/tags/241</tagurl>
+		</link>
+		<link>
+			<tag>Ambattur</tag>
+			<tagurl>/tags/242</tagurl>
+		</link>
+		<link>
+			<tag>Metrowater pipelines</tag>
+			<tagurl>/tags/243</tagurl>
+		</link>
+		<link>
+			<tag>Fukushima</tag>
+			<tagurl>/tags/244</tagurl>
+		</link>
+		<link>
+			<tag>Nuclear Power Plant</tag>
+			<tagurl>/tags/245</tagurl>
+		</link>
+		<link>
+			<tag>Radioactive</tag>
+			<tagurl>/tags/246</tagurl>
+		</link>
+		<link>
+			<tag>Tokyo Electric Power Co.</tag>
+			<tagurl>/tags/247</tagurl>
+		</link>
+		<link>
+			<tag>TEPCO</tag>
+			<tagurl>/tags/248</tagurl>
+		</link>
+		<link>
+			<tag>Children’s Dental Group</tag>
+			<tagurl>/tags/249</tagurl>
+		</link>
+		<link>
+			<tag>Orange County Health Care Agency</tag>
+			<tagurl>/tags/250</tagurl>
+		</link>
+		<link>
+			<tag>Mycobacteria</tag>
+			<tagurl>/tags/251</tagurl>
+		</link>
+		<link>
+			<tag>Bacterial Infections</tag>
+			<tagurl>/tags/252</tagurl>
+		</link>
+		<link>
+			<tag>Low-income Patients</tag>
+			<tagurl>/tags/253</tagurl>
+		</link>
+		<link>
+			<tag>Anaheim</tag>
+			<tagurl>/tags/254</tagurl>
+		</link>
+		<link>
+			<tag>Vermont</tag>
+			<tagurl>/tags/255</tagurl>
+		</link>
+		<link>
+			<tag>North Bennington</tag>
+			<tagurl>/tags/256</tagurl>
+		</link>
+		<link>
+			<tag>Walloomsac River</tag>
+			<tagurl>/tags/257</tagurl>
+		</link>
+		<link>
+			<tag>Farmhouses</tag>
+			<tagurl>/tags/258</tagurl>
+		</link>
+		<link>
+			<tag>ChemFab plant</tag>
+			<tagurl>/tags/259</tagurl>
+		</link>
+		<link>
+			<tag>Headaches</tag>
+			<tagurl>/tags/260</tagurl>
+		</link>
+		<link>
+			<tag>Sore Throats</tag>
+			<tagurl>/tags/261</tagurl>
+		</link>
+		<link>
+			<tag>Nosebleeds</tag>
+			<tagurl>/tags/262</tagurl>
+		</link>
+		<link>
+			<tag>Thyroid Disease</tag>
+			<tagurl>/tags/263</tagurl>
+		</link>
+		<link>
+			<tag>Pregnancy</tag>
+			<tagurl>/tags/264</tagurl>
+		</link>
+		<link>
+			<tag>Bed and Breakfast</tag>
+			<tagurl>/tags/265</tagurl>
+		</link>
+		<link>
+			<tag>Bennington College</tag>
+			<tagurl>/tags/266</tagurl>
+		</link>
+		<link>
+			<tag>Northeast</tag>
+			<tagurl>/tags/267</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Contamination</tag>
+			<tagurl>/tags/268</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Water</tag>
+			<tagurl>/tags/269</tagurl>
+		</link>
+		<link>
+			<tag>Kelani River</tag>
+			<tagurl>/tags/270</tagurl>
+		</link>
+		<link>
+			<tag>Pollution</tag>
+			<tagurl>/tags/271</tagurl>
+		</link>
+		<link>
+			<tag>Modara, Colombo</tag>
+			<tagurl>/tags/272</tagurl>
+		</link>
+		<link>
+			<tag>Sri Jayawardenapura University</tag>
+			<tagurl>/tags/273</tagurl>
+		</link>
+		<link>
+			<tag>Hanwella</tag>
+			<tagurl>/tags/274</tagurl>
+		</link>
+		<link>
+			<tag>Maskelliya</tag>
+			<tagurl>/tags/275</tagurl>
+		</link>
+		<link>
+			<tag>Ginigathhena</tag>
+			<tagurl>/tags/276</tagurl>
+		</link>
+		<link>
+			<tag>Awissawella</tag>
+			<tagurl>/tags/277</tagurl>
+		</link>
+		<link>
+			<tag>Biyagama</tag>
+			<tagurl>/tags/278</tagurl>
+		</link>
+		<link>
+			<tag>Polar Bears</tag>
+			<tagurl>/tags/279</tagurl>
+		</link>
+		<link>
+			<tag>Climate Change</tag>
+			<tagurl>/tags/280</tagurl>
+		</link>
+		<link>
+			<tag>Industrial Chemicals</tag>
+			<tagurl>/tags/281</tagurl>
+		</link>
+		<link>
+			<tag>Proceedings of the Royal Society B</tag>
+			<tagurl>/tags/282</tagurl>
+		</link>
+		<link>
+			<tag>Smithsonian</tag>
+			<tagurl>/tags/283</tagurl>
+		</link>
+		<link>
+			<tag>Bottled Water</tag>
+			<tagurl>/tags/284</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorooctonaoic Acid</tag>
+			<tagurl>/tags/285</tagurl>
+		</link>
+		<link>
+			<tag>Petersburgh County</tag>
+			<tagurl>/tags/286</tagurl>
+		</link>
+		<link>
+			<tag>Rensselaer County</tag>
+			<tagurl>/tags/287</tagurl>
+		</link>
+		<link>
+			<tag>Oakey</tag>
+			<tagurl>/tags/288</tagurl>
+		</link>
+		<link>
+			<tag>Australia</tag>
+			<tagurl>/tags/289</tagurl>
+		</link>
+		<link>
+			<tag>Children</tag>
+			<tagurl>/tags/290</tagurl>
+		</link>
+		<link>
+			<tag>Melbuurne</tag>
+			<tagurl>/tags/291</tagurl>
+		</link>
+		<link>
+			<tag>Melbourne Water</tag>
+			<tagurl>/tags/292</tagurl>
+		</link>
+		<link>
+			<tag>Patterson Lakes</tag>
+			<tagurl>/tags/293</tagurl>
+		</link>
+		<link>
+			<tag>Algae Infestation</tag>
+			<tagurl>/tags/294</tagurl>
+		</link>
+		<link>
+			<tag>Barry Wenke</tag>
+			<tagurl>/tags/295</tagurl>
+		</link>
+		<link>
+			<tag>Port Phillip Bay</tag>
+			<tagurl>/tags/296</tagurl>
+		</link>
+		<link>
+			<tag>Clovis</tag>
+			<tagurl>/tags/297</tagurl>
+		</link>
+		<link>
+			<tag>Shell Oil Co</tag>
+			<tagurl>/tags/298</tagurl>
+		</link>
+		<link>
+			<tag>Shell Oil</tag>
+			<tagurl>/tags/299</tagurl>
+		</link>
+		<link>
+			<tag>Shell</tag>
+			<tagurl>/tags/300</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Drinking Water</tag>
+			<tagurl>/tags/301</tagurl>
+		</link>
+		<link>
+			<tag>TCP</tag>
+			<tagurl>/tags/302</tagurl>
+		</link>
+		<link>
+			<tag>Trichloropropane</tag>
+			<tagurl>/tags/303</tagurl>
+		</link>
+		<link>
+			<tag>Plastic</tag>
+			<tagurl>/tags/304</tagurl>
+		</link>
+		<link>
+			<tag>Nematodes</tag>
+			<tagurl>/tags/305</tagurl>
+		</link>
+		<link>
+			<tag>Nematodes (worms)</tag>
+			<tagurl>/tags/306</tagurl>
+		</link>
+		<link>
+			<tag>Fumigants</tag>
+			<tagurl>/tags/307</tagurl>
+		</link>
+		<link>
+			<tag>Defense Department</tag>
+			<tagurl>/tags/308</tagurl>
+		</link>
+		<link>
+			<tag>ADF</tag>
+			<tagurl>/tags/309</tagurl>
+		</link>
+		<link>
+			<tag>Firefighting Foams</tag>
+			<tagurl>/tags/310</tagurl>
+		</link>
+		<link>
+			<tag>RAAF Base Tindal</tag>
+			<tagurl>/tags/311</tagurl>
+		</link>
+		<link>
+			<tag>RAAF</tag>
+			<tagurl>/tags/312</tagurl>
+		</link>
+		<link>
+			<tag>Katherine</tag>
+			<tagurl>/tags/313</tagurl>
+		</link>
+		<link>
+			<tag>Owasco Lake</tag>
+			<tagurl>/tags/314</tagurl>
+		</link>
+		<link>
+			<tag>Auburn</tag>
+			<tagurl>/tags/316</tagurl>
+		</link>
+		<link>
+			<tag>Owasco</tag>
+			<tagurl>/tags/317</tagurl>
+		</link>
+		<link>
+			<tag>Blue-green Algae</tag>
+			<tagurl>/tags/318</tagurl>
+		</link>
+		<link>
+			<tag>Shanghai</tag>
+			<tagurl>/tags/319</tagurl>
+		</link>
+		<link>
+			<tag>China</tag>
+			<tagurl>/tags/320</tagurl>
+		</link>
+		<link>
+			<tag>Medical waste</tag>
+			<tagurl>/tags/321</tagurl>
+		</link>
+		<link>
+			<tag>Contaminated Drinking Water</tag>
+			<tagurl>/tags/322</tagurl>
+		</link>
+		<link>
+			<tag>Yangtze River</tag>
+			<tagurl>/tags/323</tagurl>
+		</link>
+		<link>
+			<tag>Chongming Island</tag>
+			<tagurl>/tags/324</tagurl>
+		</link>
+		<link>
+			<tag>Household Trash</tag>
+			<tagurl>/tags/325</tagurl>
+		</link>
+		<link>
+			<tag>Cayuga County</tag>
+			<tagurl>/tags/326</tagurl>
+		</link>
+		<link>
+			<tag>Farmingdale's Grecian Grille</tag>
+			<tagurl>/tags/327</tagurl>
+		</link>
+		<link>
+			<tag>Nassau County</tag>
+			<tagurl>/tags/328</tagurl>
+		</link>
+		<link>
+			<tag>Long Island</tag>
+			<tagurl>/tags/329</tagurl>
+		</link>
+		<link>
+			<tag>Bethpage</tag>
+			<tagurl>/tags/330</tagurl>
+		</link>
+		<link>
+			<tag>Coast Guard</tag>
+			<tagurl>/tags/331</tagurl>
+		</link>
+		<link>
+			<tag>Canadian Coast Guard</tag>
+			<tagurl>/tags/332</tagurl>
+		</link>
+		<link>
+			<tag>Louis Cannon</tag>
+			<tagurl>/tags/333</tagurl>
+		</link>
+		<link>
+			<tag>Union of Canadian Transportation Employees</tag>
+			<tagurl>/tags/334</tagurl>
+		</link>
+		<link>
+			<tag>Quebec</tag>
+			<tagurl>/tags/335</tagurl>
+		</link>
+		<link>
+			<tag>Pancreatic Cancer</tag>
+			<tagurl>/tags/336</tagurl>
+		</link>
+		<link>
+			<tag>Depression</tag>
+			<tagurl>/tags/337</tagurl>
+		</link>
+		<link>
+			<tag>Viruses</tag>
+			<tagurl>/tags/338</tagurl>
+		</link>
+		<link>
+			<tag>Groundwater</tag>
+			<tagurl>/tags/339</tagurl>
+		</link>
+		<link>
+			<tag>Microorganisms</tag>
+			<tagurl>/tags/340</tagurl>
+		</link>
+		<link>
+			<tag>Florida State University</tag>
+			<tagurl>/tags/341</tagurl>
+		</link>
+		<link>
+			<tag>Hydrogeology Journal</tag>
+			<tagurl>/tags/342</tagurl>
+		</link>
+		<link>
+			<tag>Christopher Uejio</tag>
+			<tagurl>/tags/343</tagurl>
+		</link>
+		<link>
+			<tag>Gastrointestinal Illness</tag>
+			<tagurl>/tags/344</tagurl>
+		</link>
+		<link>
+			<tag>Rusk County</tag>
+			<tagurl>/tags/345</tagurl>
+		</link>
+		<link>
+			<tag>Kettleman City, California</tag>
+			<tagurl>/tags/346</tagurl>
+		</link>
+		<link>
+			<tag>Flint River</tag>
+			<tagurl>/tags/347</tagurl>
+		</link>
+		<link>
+			<tag>Detroit</tag>
+			<tagurl>/tags/348</tagurl>
+		</link>
+		<link>
+			<tag>Kettleman City</tag>
+			<tagurl>/tags/349</tagurl>
+		</link>
+		<link>
+			<tag>Los Angeles</tag>
+			<tagurl>/tags/350</tagurl>
+		</link>
+		<link>
+			<tag>Sacramento</tag>
+			<tagurl>/tags/351</tagurl>
+		</link>
+		<link>
+			<tag>Trump Administration</tag>
+			<tagurl>/tags/352</tagurl>
+		</link>
+		<link>
+			<tag>Colorado River</tag>
+			<tagurl>/tags/353</tagurl>
+		</link>
+		<link>
+			<tag>Drought</tag>
+			<tagurl>/tags/354</tagurl>
+		</link>
+		<link>
+			<tag>Poor Water Quality</tag>
+			<tagurl>/tags/355</tagurl>
+		</link>
+		<link>
+			<tag>Unsafe Drinking Water</tag>
+			<tagurl>/tags/356</tagurl>
+		</link>
+		<link>
+			<tag>Colorado River Basin</tag>
+			<tagurl>/tags/357</tagurl>
+		</link>
+		<link>
+			<tag>Bureau of Reclamation</tag>
+			<tagurl>/tags/358</tagurl>
+		</link>
+		<link>
+			<tag>Malcolm Wilson</tag>
+			<tagurl>/tags/359</tagurl>
+		</link>
+		<link>
+			<tag>Luoyang</tag>
+			<tagurl>/tags/360</tagurl>
+		</link>
+		<link>
+			<tag>Henan Province</tag>
+			<tagurl>/tags/361</tagurl>
+		</link>
+		<link>
+			<tag>Reuters</tag>
+			<tagurl>/tags/362</tagurl>
+		</link>
+		<link>
+			<tag>China Daily</tag>
+			<tagurl>/tags/363</tagurl>
+		</link>
+		<link>
+			<tag>Xinhua</tag>
+			<tagurl>/tags/364</tagurl>
+		</link>
+		<link>
+			<tag>National Audit Office (China)</tag>
+			<tagurl>/tags/365</tagurl>
+		</link>
+		<link>
+			<tag>Business Insider</tag>
+			<tagurl>/tags/366</tagurl>
+		</link>
+		<link>
+			<tag>Adambakkam</tag>
+			<tagurl>/tags/367</tagurl>
+		</link>
+		<link>
+			<tag>Adyar</tag>
+			<tagurl>/tags/368</tagurl>
+		</link>
+		<link>
+			<tag>Alandur</tag>
+			<tagurl>/tags/369</tagurl>
+		</link>
+		<link>
+			<tag>Anna Nagar</tag>
+			<tagurl>/tags/370</tagurl>
+		</link>
+		<link>
+			<tag>Besant Nagar</tag>
+			<tagurl>/tags/371</tagurl>
+		</link>
+		<link>
+			<tag>C Ramakrishnan</tag>
+			<tagurl>/tags/372</tagurl>
+		</link>
+		<link>
+			<tag>Chennai</tag>
+			<tagurl>/tags/373</tagurl>
+		</link>
+		<link>
+			<tag>Federation of Adyar Residents Associations</tag>
+			<tagurl>/tags/374</tagurl>
+		</link>
+		<link>
+			<tag>Guindy</tag>
+			<tagurl>/tags/375</tagurl>
+		</link>
+		<link>
+			<tag>Kotturpuram</tag>
+			<tagurl>/tags/376</tagurl>
+		</link>
+		<link>
+			<tag>Nanganallur</tag>
+			<tagurl>/tags/377</tagurl>
+		</link>
+		<link>
+			<tag>Pazhavanthangal</tag>
+			<tagurl>/tags/379</tagurl>
+		</link>
+		<link>
+			<tag>Royapettah</tag>
+			<tagurl>/tags/380</tagurl>
+		</link>
+		<link>
+			<tag>Taramani</tag>
+			<tagurl>/tags/381</tagurl>
+		</link>
+		<link>
+			<tag>Times of India</tag>
+			<tagurl>/tags/382</tagurl>
+		</link>
+		<link>
+			<tag>Triplicane</tag>
+			<tagurl>/tags/383</tagurl>
+		</link>
+		<link>
+			<tag>Thiruvanmiyur</tag>
+			<tagurl>/tags/384</tagurl>
+		</link>
+		<link>
+			<tag>Thiruvottiyur</tag>
+			<tagurl>/tags/385</tagurl>
+		</link>
+		<link>
+			<tag>Water Shortage</tag>
+			<tagurl>/tags/386</tagurl>
+		</link>
+		<link>
+			<tag>Velachery</tag>
+			<tagurl>/tags/387</tagurl>
+		</link>
+		<link>
+			<tag>Water Affordability</tag>
+			<tagurl>/tags/388</tagurl>
+		</link>
+		<link>
+			<tag>Elizabeth Mack</tag>
+			<tagurl>/tags/389</tagurl>
+		</link>
+		<link>
+			<tag>Department of Geography</tag>
+			<tagurl>/tags/390</tagurl>
+		</link>
+		<link>
+			<tag>Environment</tag>
+			<tagurl>/tags/391</tagurl>
+		</link>
+		<link>
+			<tag>Spatial Sciences</tag>
+			<tagurl>/tags/392</tagurl>
+		</link>
+		<link>
+			<tag>Michigan State University</tag>
+			<tagurl>/tags/393</tagurl>
+		</link>
+		<link>
+			<tag>Sarah Wrase</tag>
+			<tagurl>/tags/394</tagurl>
+		</link>
+		<link>
+			<tag>New Hampshire</tag>
+			<tagurl>/tags/395</tagurl>
+		</link>
+		<link>
+			<tag>Portsmouth</tag>
+			<tagurl>/tags/396</tagurl>
+		</link>
+		<link>
+			<tag>Pease International Tradeport</tag>
+			<tagurl>/tags/397</tagurl>
+		</link>
+		<link>
+			<tag>Selma</tag>
+			<tagurl>/tags/398</tagurl>
+		</link>
+		<link>
+			<tag>Selma Marchers</tag>
+			<tagurl>/tags/399</tagurl>
+		</link>
+		<link>
+			<tag>Selma Solidarity March</tag>
+			<tagurl>/tags/400</tagurl>
+		</link>
+		<link>
+			<tag>Women's March Organization</tag>
+			<tagurl>/tags/401</tagurl>
+		</link>
+		<link>
+			<tag>Sisters in Synergy</tag>
+			<tagurl>/tags/402</tagurl>
+		</link>
+		<link>
+			<tag>Flint City Hall</tag>
+			<tagurl>/tags/403</tagurl>
+		</link>
+		<link>
+			<tag>Singapore</tag>
+			<tagurl>/tags/404</tagurl>
+		</link>
+		<link>
+			<tag>Malaysia</tag>
+			<tagurl>/tags/405</tagurl>
+		</link>
+		<link>
+			<tag>Teo Chee Hean</tag>
+			<tagurl>/tags/406</tagurl>
+		</link>
+		<link>
+			<tag>Johor's Linggiu Reservoir</tag>
+			<tagurl>/tags/407</tagurl>
+		</link>
+		<link>
+			<tag>NASA</tag>
+			<tagurl>/tags/408</tagurl>
+		</link>
+		<link>
+			<tag>Baltimore</tag>
+			<tagurl>/tags/409</tagurl>
+		</link>
+		<link>
+			<tag>Goddard Space Flight Center</tag>
+			<tagurl>/tags/410</tagurl>
+		</link>
+		<link>
+			<tag>Greenbelt</tag>
+			<tagurl>/tags/411</tagurl>
+		</link>
+		<link>
+			<tag>GPM</tag>
+			<tagurl>/tags/412</tagurl>
+		</link>
+		<link>
+			<tag>Dr. Dalia Kirschbaum</tag>
+			<tagurl>/tags/413</tagurl>
+		</link>
+		<link>
+			<tag>Florida</tag>
+			<tagurl>/tags/414</tagurl>
+		</link>
+		<link>
+			<tag>Perfluorinated Compounds</tag>
+			<tagurl>/tags/415</tagurl>
+		</link>
+		<link>
+			<tag>PFC's</tag>
+			<tagurl>/tags/416</tagurl>
+		</link>
+		<link>
+			<tag>Snowfall</tag>
+			<tagurl>/tags/417</tagurl>
+		</link>
+		<link>
+			<tag>Contaminated Groundwater</tag>
+			<tagurl>/tags/418</tagurl>
+		</link>
+		<link>
+			<tag>George Air Force Base</tag>
+			<tagurl>/tags/419</tagurl>
+		</link>
+		<link>
+			<tag>Mojave Desert</tag>
+			<tagurl>/tags/420</tagurl>
+		</link>
+		<link>
+			<tag>California</tag>
+			<tagurl>/tags/421</tagurl>
+		</link>
+		<link>
+			<tag>George H.W. Bush</tag>
+			<tagurl>/tags/422</tagurl>
+		</link>
+		<link>
+			<tag>Toxic Waste</tag>
+			<tagurl>/tags/423</tagurl>
+		</link>
+		<link>
+			<tag>Jet Fuel</tag>
+			<tagurl>/tags/424</tagurl>
+		</link>
+		<link>
+			<tag>Trichloroethylene</tag>
+			<tagurl>/tags/425</tagurl>
+		</link>
+		<link>
+			<tag>Aquifers</tag>
+			<tagurl>/tags/426</tagurl>
+		</link>
+		<link>
+			<tag>Mojave River</tag>
+			<tagurl>/tags/427</tagurl>
+		</link>
+		<link>
+			<tag>Bottled Drinking Water</tag>
+			<tagurl>/tags/428</tagurl>
+		</link>
+		<link>
+			<tag>Marines</tag>
+			<tagurl>/tags/429</tagurl>
+		</link>
+		<link>
+			<tag>Camp Lejeune</tag>
+			<tagurl>/tags/430</tagurl>
+		</link>
+		<link>
+			<tag>Leukemia</tag>
+			<tagurl>/tags/431</tagurl>
+		</link>
+		<link>
+			<tag>Vietnam War</tag>
+			<tagurl>/tags/432</tagurl>
+		</link>
+		<link>
+			<tag>Vinyl Chloride</tag>
+			<tagurl>/tags/433</tagurl>
+		</link>
+		<link>
+			<tag>Benzene</tag>
+			<tagurl>/tags/434</tagurl>
+		</link>
+		<link>
+			<tag>Perchloroethylene</tag>
+			<tagurl>/tags/435</tagurl>
+		</link>
+		<link>
+			<tag>Acid Waste</tag>
+			<tagurl>/tags/436</tagurl>
+		</link>
+		<link>
+			<tag>Acid Water</tag>
+			<tagurl>/tags/437</tagurl>
+		</link>
+		<link>
+			<tag>Acidic Gypsum</tag>
+			<tagurl>/tags/438</tagurl>
+		</link>
+		<link>
+			<tag>Superfund</tag>
+			<tagurl>/tags/439</tagurl>
+		</link>
+		<link>
+			<tag>Pascagoula</tag>
+			<tagurl>/tags/440</tagurl>
+		</link>
+		<link>
+			<tag>Lakes</tag>
+			<tagurl>/tags/441</tagurl>
+		</link>
+		<link>
+			<tag>Rivers</tag>
+			<tagurl>/tags/442</tagurl>
+		</link>
+		<link>
+			<tag>Ponds</tag>
+			<tagurl>/tags/443</tagurl>
+		</link>
+		<link>
+			<tag>Crude Oil</tag>
+			<tagurl>/tags/444</tagurl>
+		</link>
+		<link>
+			<tag>Gulf of Mexico</tag>
+			<tagurl>/tags/445</tagurl>
+		</link>
+		<link>
+			<tag>Deepwater Horizon</tag>
+			<tagurl>/tags/446</tagurl>
+		</link>
+		<link>
+			<tag>Mississippi Phosphates</tag>
+			<tagurl>/tags/447</tagurl>
+		</link>
+		<link>
+			<tag>Mississippi</tag>
+			<tagurl>/tags/448</tagurl>
+		</link>
+		<link>
+			<tag>Alabama</tag>
+			<tagurl>/tags/449</tagurl>
+		</link>
+		<link>
+			<tag>Ben Raines</tag>
+			<tagurl>/tags/450</tagurl>
+		</link>
+		<link>
+			<tag>Bangs Lake</tag>
+			<tagurl>/tags/451</tagurl>
+		</link>
+		<link>
+			<tag>Grand Bay</tag>
+			<tagurl>/tags/452</tagurl>
+		</link>
+		<link>
+			<tag>Jackson County</tag>
+			<tagurl>/tags/453</tagurl>
+		</link>
+		<link>
+			<tag>Jackson County Emergency Management</tag>
+			<tagurl>/tags/454</tagurl>
+		</link>
+		<link>
+			<tag>Earl Etheridge</tag>
+			<tagurl>/tags/455</tagurl>
+		</link>
+		<link>
+			<tag>Department of Environmental Quality</tag>
+			<tagurl>/tags/456</tagurl>
+		</link>
+		<link>
+			<tag>OSHA</tag>
+			<tagurl>/tags/457</tagurl>
+		</link>
+		<link>
+			<tag>USMC</tag>
+			<tagurl>/tags/458</tagurl>
+		</link>
+		<link>
+			<tag>United States Marine Corps</tag>
+			<tagurl>/tags/459</tagurl>
+		</link>
+		<link>
+			<tag>Alaska</tag>
+			<tagurl>/tags/460</tagurl>
+		</link>
+		<link>
+			<tag>Salmon</tag>
+			<tagurl>/tags/461</tagurl>
+		</link>
+		<link>
+			<tag>Tulsequah Chief Mine</tag>
+			<tagurl>/tags/462</tagurl>
+		</link>
+		<link>
+			<tag>British Columbia</tag>
+			<tagurl>/tags/463</tagurl>
+		</link>
+		<link>
+			<tag>Georgia House Natural Resources and Environment Committee</tag>
+			<tagurl>/tags/464</tagurl>
+		</link>
+		<link>
+			<tag>Georgia</tag>
+			<tagurl>/tags/465</tagurl>
+		</link>
+		<link>
+			<tag>Landfills</tag>
+			<tagurl>/tags/466</tagurl>
+		</link>
+		<link>
+			<tag>Coal</tag>
+			<tagurl>/tags/467</tagurl>
+		</link>
+		<link>
+			<tag>Georgia Water Coalition</tag>
+			<tagurl>/tags/468</tagurl>
+		</link>
+	</pages>

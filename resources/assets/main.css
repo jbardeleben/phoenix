@@ -1,0 +1,160 @@
+@charset "utf-8";
+
+.main-nav-li {
+}
+.main-nav-li>a:hover {
+	color: #990000;
+}
+
+.page-logo {
+	margin-top: 30px;
+}
+
+/*
+ * custom jumbotron
+ *
+ * properties I have temporarily removed:
+ * background-color: #B0EAB7;
+ */
+.custom-jumbotron {
+	width: 100%;
+	background-image: url("http://www.wavlite.com/images/.png");
+	background-position: center center;
+	border-top: 1px solid #3671ce;
+	border-bottom: 1px solid #3671ce;
+	padding-top: 1em;
+	padding-right: 1em;
+	padding-bottom: 2em;
+	padding-left: 1em;
+	margin-top: -20px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+
+.custom-jumbotron h1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.custom-jumbotron h1 small {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+/*
+ * Custom navbar classes
+ * I still need to set up the font colors for ul, li, a, p, span.
+ * The backgound and border properties act to 'reset' the bootstrap
+ * properties in favor of my own overrides.
+ * Note that this may become an untaking and may not be worth it
+ * for the time being...
+ *
+ * Properties I have temporarily removed:
+ * background-color: #7ca2dd;
+ * border-color: #7ca2dd;
+ * border-top-color: #7ca2dd;
+ * border-top-left-radius: 6px;
+ * border-top-right-radius: 6px;
+ */
+.custom-nav-bkgnd {
+	background-color: #e0ecfe;
+	border-color: #e0ecfe;
+	border-top-color: #e0ecfe;
+	border-radius: 0;
+}
+
+
+.sidebar {
+	background-color: #e0ecfe;
+	padding: 3px 10px 10px 15px;
+	border-top: 7px solid #3671ce;
+	border-radius: 6px;
+}
+.sidebar hr {
+	border-color: #3671ce;
+	/*color: #3671ce;*/
+}
+
+/* BASE FOR .article CLASS
+ * -------------------------------------------------------------------------- */
+.article {
+	color: #555555;
+}
+
+/* FONT CONTROL
+ * -------------------------------------------------------------------------- */
+.arcSan {
+	font-family: "Times", serif;
+	font-size: 1.3em;
+}
+
+.debug-error {
+	color: #990000;
+	font-family: "Source Code Pro", monospace;
+	background-color: #DDDDDD;
+	border: 1px solid #990000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 12px 18px 12px 18px;
+	margin: 10px 0 140px 0;
+}
+.debug-error hr {
+	border-color: #990000;
+}
+
+
+/*
+ *
+ */
+.pri-nav-logo {
+	width: 115px;
+	margin: -10px 0 0 0;
+}
+
+.menuDivTop {
+	color: #8A8A8A;
+	background-color: #EEEEEE;
+	margin-top: -5px;
+}
+
+.menuDiv {
+	color: #8A8A8A;
+	background-color: #EEEEEE;
+	margin: 5px 0;
+}
+
+.footerBackground {
+	background-color: #C8C8C8;
+	margin: 70px 0 0 0;
+	padding: 0 0 30px 0;
+}
+
+.footerCopyright {
+	padding: 20px 0;
+}
+
+.footerBkgnd {
+	background-color: #B1DEE8;
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#B0EAB7),to(#B1DEE8));
+	background-image: -webkit-linear-gradient(top,#B0EAB7,#B1DEE8);
+	background-image:    -moz-linear-gradient(top,#B0EAB7,#B1DEE8);
+	background-image:     -ms-linear-gradient(top,#B0EAB7,#B1DEE8);
+	background-image:      -o-linear-gradient(top,#B0EAB7,#B1DEE8);
+	background-image:         linear-gradient(top,#B0EAB7,#B1DEE8);
+}
+
+.pressBlock {
+	height: 90px;
+	margin-top: 25px;
+	background-color: #FFFFFF;
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#F5F5F5),to(#FFFFFF));
+	background-image: -webkit-linear-gradient(top,#F5F5F5,#FFFFFF);
+	background-image:    -moz-linear-gradient(top,#F5F5F5,#FFFFFF);
+	background-image:     -ms-linear-gradient(top,#F5F5F5,#FFFFFF);
+	background-image:      -o-linear-gradient(top,#F5F5F5,#FFFFFF);
+	background-image:         linear-gradient(top,#F5F5F5,#FFFFFF);
+	-webkit-border-radius: 6px;
+	   -moz-border-radius: 6px;
+	        border-radius: 6px;
+}

@@ -1,0 +1,868 @@
+@charset "utf-8";
+
+.grey {
+  /* 
+   * This is not tied to browser size, hence being outside the media queries
+   * This is the grey background for the whole site
+   * ====================================================================== */
+  background-color: #EEEEEE;
+}
+.phoenix-background {
+  /* This is not tied to browser size, hence being outside the media queries */
+  background-color: #FFFFFF;
+   -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+  border-radius: 2px;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
+  padding: 8px 20px;
+}
+
+@media only screen and (min-width: 1500px) {
+	/* large desktop screens (24" +) */
+}
+@media only screen and (max-width: 768px) {
+  .copy {  /* This is used for main content copy - such as text on the main page */
+    font-size: 1.1em;
+  }
+  .mission-img {
+    display: none;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .copy {  /* This is used for main content copy - such as text on the main page */
+    font-size: 1.1em;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .copy {  /* This is used for main content copy - such as text on the main page */
+    font-size: 1.2em;
+  }
+}
+
+.mission-img {
+	padding: 0 10px 0 0;
+	margin: 0 15px 20px 0;
+	border-right: 3px solid #777777;
+}
+
+/*
+ * BEM BUTTONS (with state)
+ * =========================================== */
+.bem-button {
+  display: inline-block;
+  border-radius: 2px;
+  padding: 7px 12px;
+  border: 1px solid #D5D5D5;
+  background-image: linear-gradient(#EEEEEE, #DDDDDD);
+  font: 700 13px/18px Helvetica, arial;
+}
+
+.bem-button:hover {
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 2px;
+  padding: 7px 12px;
+  border: 1px solid #B5B5B5;
+  background-image: linear-gradient(#DDDDDD, #BBBBBB);
+  font: 700 13px/18px Helvetica, arial;
+}
+
+.button--state-primary {
+  color: #FFFFFF;
+  background: #3671CE linear-gradient(#5B90E3, #3671CE) repeat-x;
+  border-color: #2858A4;
+}
+
+.button--state-primary:hover {
+  color: #FFFFFF;
+  background: #286090 linear-gradient(#4E7ECB, #286090) repeat-x;
+  border-color: #204D74;
+}
+
+.button--state-success {
+  color: #FFFFFF;
+  background: #569E3D linear-gradient(#79D858, #569E3D) repeat-x;
+  border-color: #4A993E;
+}
+.button--state-success:hover {
+  color: #FFFFFF;
+  background: #569E3D linear-gradient(#6CBE4F, #4A8635) repeat-x;
+  border-color: #418536;
+}
+
+.button--state-warning {
+  color: #FF4D00;
+}
+
+.button--state-warning:hover {
+  border-color: #FECBB5;
+}
+
+.button--state-danger {
+  color: #990000;
+}
+
+.button--state-danger:hover {
+  border-color: #DFB1B1;
+}
+/*
+ * LARGE BEM BUTTONS (with state)
+ * =========================================== */
+.bem-btn-lg {
+  padding: 1.0em;
+  font-size: 1.1em;
+}
+.bem-btn-lg:hover {
+  padding: 1.0em;
+  font-size: 1.1em;
+}
+/*
+ * SMALL BEM BUTTONS (with state)
+ * =========================================== */
+.bem-btn-sm {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 0.75em;
+}
+.bem-btn-sm:hover {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 0.75em;
+}
+/*
+ * SMALL BEM BUTTONS (with state)
+ * =========================================== */
+.bem-btn-xs {
+  padding-top: 0.425em;
+  padding-bottom: 0.425em;
+  font-size: 0.65em;
+}
+.bem-btn-xs:hover {
+  padding-top: 0.425em;
+  padding-bottom: 0.425em;
+  font-size: 0.65em;
+}
+
+.jui-label-default {
+  background-color: #CCCCCC;
+  color: #777777;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+/*
+ * This will need to be put into media queries. No
+ * need to get over zealous about it, but pick the
+ * basic ones that are in the BS file and adjust.
+ * I will need to adjust for some of the squeezing
+ * on the larger screens, but ultimately I need to
+ * find a way to do this more automatically. 
+ */
+.b-img {
+  width: 780px;
+}
+
+.jumbotron-sm {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  color: inherit;
+  background-color: #eee;
+}
+.jumbotron-sm h1,
+.jumbotron-sm .h1 {
+  color: inherit;
+}
+.jumbotron-sm p {
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 200;
+}
+.jumbotron-sm > hr {
+  border-top-color: #d5d5d5;
+}
+.container .jumbotron-sm,
+.container-fluid .jumbotron-sm {
+  border-radius: 6px;
+}
+.jumbotron-sm .container {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .jumbotron-sm {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .container .jumbotron-sm,
+  .container-fluid .jumbotron-sm {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .jumbotron-sm h1,
+  .jumbotron-sm .h1 {
+    font-size: 43px;
+  }
+}
+.banner-sm {
+  width: 100%;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 3px #0e3e63;
+  text-align: center; 
+  background-image: url(../images/banner.jpg);
+  background-position: center center;
+  border-top: 0px solid #001781;
+  border-bottom: 2px solid #777777;
+  padding: 1em 5em 2em 5em;
+  margin: -20px 0 0 0;
+}
+
+
+.banner {
+  width: 100%;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 3px #0e3e63;
+  text-align: center; 
+  background-image: url(../images/banner.jpg);
+  background-position: center center;
+  border-top: 0px solid #001781;
+  border-bottom: 2px solid #777777;
+  padding: 7em 5em 8em 5em;
+  margin: -20px 0 0 0;
+}
+a:hover {
+  color: #337ab7; /* THIS IS THE HOVER I WANT IN THE FUCKING NAV BAR. */
+  /*color: #0080FF;*/
+}
+.page-footer-logo {
+  text-align: center;
+}
+.banner-h1 {
+  font-family: 'Lato'; 
+  font-size: 4.0em; 
+  font-weight: 700;
+}
+.banner-h1 small {
+  font-family: 'Lato'; 
+  font-size: .80em; 
+  font-weight: 700;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 3px #0e3e63;
+}
+.banner-lead {
+  color: #FFFFFF;
+  font-family: 'Lato';
+  font-size: 2.0em; 
+  font-style: italic;
+  text-align: center;
+  font-weight: 700;
+  text-shadow: 1px 1px 3px #0e3e63;
+}
+.header-logo {
+  /*margin-top: -10px;*/
+  margin: -16px 20px 0 15px;
+	
+  /* This is for the newest banner logo (thin) 
+  --------------------------------------------*/
+  /*margin: -24px 20px 0 -15px;*/
+  /*width: 100%;*/
+  /*min-width: 750px;*/
+  /*max-width: 1000px;*/
+}
+.space {
+  margin: 15px 0 15px 0;
+}
+
+.btn-h1-spacing { /* used for ~/posts display */
+  margin-top: 18px;
+}
+
+.btn-block-space-top {
+  margin-top: 25px;
+}
+
+.footer {
+  width: 100%;
+  color: #666666;
+  background-color: #E5E5E5;
+}
+
+.footer-grad-30 {
+  height: 30px;
+  background-color: #E5E5E5;
+  background-image: -webkit-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:    -moz-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:     -ms-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:      -o-linear-gradient(top,#B5B5B5,#E5E5E5);
+  background-image:         linear-gradient(top,#B5B5B5,#E5E5E5);
+}
+
+footer a {
+  color: #666666;
+}
+footer a:hover {
+  color: #363636;
+  text-decoration: none;
+}
+
+/* ************************************************************************** */
+
+/*
+ * NAV OVERRIDE CLASSES (NOTE - Go through the damn BSCSS and just do
+ * it friggen manually, this is just a pain in the fkin ass and will be
+ * FAR to time-consuming...)
+ * -------------------------------------------------------------------------- */
+.w-nav {
+  background-color: #B1DEE8;
+  border-color: #B1DEE8;
+  border-bottom: 2px solid #3671ce;
+  border-radius: 0;
+}
+.w-nav a {
+  color: #001781;
+}
+.w-nav li:hover {
+  background-color: #B1DEE8;
+  color: #001781;
+  text-decoration: underline;
+}
+.w-nav li:active {
+  background-color: #3671ce;
+  text-decoration: none;
+}
+
+/* FORM PAGE TEMPLATE CLASSES (NON-BOOTSTRAP)
+ * -----------------------------------------------------------------------------
+ */
+.tmpl-top-margin {
+  margin-top: 50px;
+}
+.tmpl-top-margin-reset {
+  margin-top: -50px;
+}
+.red-notice {
+  color: #CC0000;
+}
+@media only screen and (max-width: 480px) {
+  .panel-spacer {
+    margin-top: 10px;
+  }
+  .section-display {
+    display: none;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 743px) {
+  .panel-spacer {
+    margin-top: 20px;
+  }
+  .section-display {
+    display: block;
+  }
+  .section-display > h1 {
+    font-size: 1.7em;
+  }
+  .section-display > p {
+    font-size: .85em;
+  }
+  .panl-display {
+    display: none;
+  }
+}
+@media only screen and (min-width: 744px) {
+  .panel-spacer {
+    margin-top: 30px;
+  }
+  .section-display {
+    display: block;
+  }
+  .panl-display {
+    display: none;
+  }
+}
+
+
+/* CUSTOM FONTS (https://www.google.com/fonts)
+ * -----------------------------------------------------------------------------
+ */
+.h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 3.2em;
+  color: #001781;
+}
+.h1-thin {
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 3.2em;
+  color: #001781;
+}
+.h1-lite {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 3.2em;
+  color: #001781;
+}
+.h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 2.2em;
+  color: #001781;
+}
+.h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.8em;
+  color: #001781;
+}
+.h4 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 1.3em;
+  color: #001781;
+}
+.h5 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.8em;
+  font-style: italic;
+  color: #001781;
+}
+.h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 1.3em;
+  font-style: italic;
+  color: #001781;
+}
+.p-reg {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.2em;
+  color: #333333;
+}
+.p-lt {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+  color: #333333;
+}
+.p-st {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.2em;
+  color: #333333;
+}
+.p-xst {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 1.2em;
+  color: #333333;
+}
+
+
+/* HELPER CLASSES (NON-BOOTSTRAP)
+ * -------------------------------------------------------------------------- */
+
+.helper-space-vert {
+  margin: 30px 0;
+}
+
+.helper-space-horz {
+  margin: 0 30px;
+}
+
+.helper-space-top {
+  margin-top: 30px;
+}
+
+/* Line Breaks/Horizontal Rulers: -br-x is [margin: {x}0px 0;] */
+.helper-br-1 {
+  margin: 10px 0;
+}
+.helper-br-2 {
+  margin: 20px 0;
+}
+
+.helper-br-3 {
+  margin: 30px 0;
+}
+
+.helper-br-4 {
+  margin: 40px 0;
+}
+
+.helper-br-5 {
+  margin: 50px 0;
+}
+
+.helper-br-6 {
+  margin: 60px 0;
+}
+
+.helper-br-7 {
+  margin: 70px 0;
+}
+
+.helper-br-8 {
+  /* used for the spacer above footer */
+  margin: 80px 0;
+}
+
+.helper-hr-0-b {
+  margin: 0;
+  height: 3px;
+  border-top: 1px solid #DDDDDD;
+  background-color: #CCCCCC;
+  border-bottom: 1px solid #BBBBBB;
+}
+
+.helper-hr-1 {
+  margin: 10px 0;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.helper-hr-2 {
+  margin: 20px 0;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.helper-hr-3 {
+  margin: 30px 0;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.helper-hr-4 {
+  margin: 40px 0;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+.helper-hr-2-bt {
+  border-top: 3px solid #001781;
+  background-color: #3671ce;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  height: 10px;
+  margin: 2px 0 20px 0;
+}
+
+.helper-hr-2-bb {
+  border-bottom: 3px solid #001781;
+  background-color: #3671ce;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  height: 10px;
+  margin: 20px 0;
+}
+
+.h1-main {
+  font-family: 'Lato';
+  font-size: 3.0em;
+  color: #001781;
+}
+
+.h2-main {
+  font-family: 'Lato';
+  font-size: 2.2em;
+  color: #001781;
+}
+
+.h3-main {
+  font-family: 'Lato';
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #001781;
+}
+
+.h3-main-sb {
+  font-family: 'Lato';
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #001781;
+}
+
+.h3-main small {
+  font-family: 'Lato';
+  font-size: 0.65em;
+  color: #001781;
+}
+
+.h1-side {
+  font-family: 'Lato';
+  font-size: 2.2em;
+  font-weight: 100;
+  color: #777777;
+  padding-top: 10px;
+}
+
+.h1-title {
+  font-family: 'Lato';
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #001781
+}
+
+
+.h1-login {
+  font-family: 'Lato';
+  font-size: 3.0em;
+  color: #001781;
+}
+
+.space {
+  margin: 0 0 30px 0;
+  font-size: 1.8em;
+}
+
+.space-tags {
+  margin: 0 0 30px 0;
+}
+
+.page-logo {
+  margin-top: 30px;
+}
+
+/*
+ * custom jumbotron
+ *
+ * properties I have temporarily removed:
+ * background-color: #B0EAB7;
+ */
+.custom-jumbotron {
+  width: 100%;
+  background-image: url("http://localhost/images/pri_jumbotron.png");
+  background-position: center center;
+  border-top: 1px solid #3671ce;
+  border-bottom: 1px solid #3671ce;
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 2em;
+  padding-left: 1em;
+  margin-top: -20px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.custom-jumbotron h1 {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.custom-jumbotron h1 small {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/*
+ * Custom navbar classes
+ * I still need to set up the font colors for ul, li, a, p, span.
+ * The backgound and border properties act to 'reset' the bootstrap
+ * properties in favor of my own overrides.
+ * Note that this may become an untaking and may not be worth it
+ * for the time being...
+ *
+ * Properties I have temporarily removed:
+ * background-color: #7ca2dd;
+ * border-color: #7ca2dd;
+ * border-top-color: #7ca2dd;
+ * border-top-left-radius: 6px;
+ * border-top-right-radius: 6px;
+ */
+.custom-nav-bkgnd {
+  background-color: #F5F5F5;
+  border-color: #F5F5F5;
+  border-top-color: #F5F5F5;
+  border-bottom-color: #999999;
+  border-radius: 0;
+}
+
+
+/*
+ * Sidebar classes
+ * These will be all the classes that are directly related to the sidebar that
+ * are not bootstrap specific classes or id's
+ */
+.sidebar {
+  /*background-color: #e0ecfe;*/
+  background-color: #f7f7f7;
+  padding: 3px 10px 10px 15px;
+  border-top: 7px solid #3671ce;
+  border-radius: 6px;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
+}
+.sidebar hr {
+  border-color: #3671ce;
+  /*color: #3671ce;*/
+}
+.sidebar-section {
+  margin-top: -20px;
+}
+.sidebar-section-loop {
+  margin-top: 10px;
+}
+@media only screen and (max-width: 991px) {
+  #sidebar {
+    display: none;
+  }
+}
+
+
+/*
+ * Comment Section Classes and Id's
+ * This is where all classes that are directly related to the comments section
+ * will be that are not bootstrap specific classes or id's
+ */
+.comments-sm {
+  font-size: 0.75em;
+}
+.comments-th-l {
+  width: 20%;
+}
+.comments-th-c {
+  width: 20%;
+}
+.comment-header {
+  margin: 5px 0 20px 0;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #0E3E63;
+}
+.comment {
+  background-color: #FFFFFF;
+  border: 1px solid #0E3E63;
+  border-bottom: 2px solid #0E3E63;
+  margin-bottom: 35px;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+}
+.comment-header > h3 {
+  color: #0E3E63;
+}
+.comment-title > span {
+  margin: 0 15px 0 0;
+}
+.author-info {
+  display: block;
+}
+.author-img {
+  width: 50px;
+  height: 50px;
+  -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+          border-radius: 50%;
+  float: left;
+}
+.author-name {
+  float: left;
+  margin-left: 15px;
+}
+.author-name > h4 {
+  color: #0E3E63;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 5px 0;
+}
+.author-time {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #777777;
+}
+.comment-content {
+  clear: both;
+  font-size: 1.1em;
+  line-height: 1.3em;
+  margin: 5px 0 0 65px;
+  padding: 5px 0 0 0;
+  border-top: 1px dashed #AAAAAA;
+}
+.comment-form {
+  margin-top: 50px;
+  padding-top: 10px;
+  border-top: 1px dashed #0E3E63;
+}
+
+
+/* BASE FOR .article CLASS
+ * -------------------------------------------------------------------------- */
+.article {
+  color: #555555;
+}
+
+/* FONT CONTROL
+ * -------------------------------------------------------------------------- */
+.arcSan {
+  font-family: "Times", serif;
+  font-size: 1.3em;
+}
+
+.debug-error {
+  color: #990000;
+  font-family: "Source Code Pro", monospace;
+  background-color: #DDDDDD;
+  border: 1px solid #990000;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  padding: 12px 18px 12px 18px;
+  margin: 10px 0 140px 0;
+}
+.debug-error hr {
+  border-color: #990000;
+}
+
+
+/*
+ *
+ */
+.pri-nav-logo {
+  width: 115px;
+  margin: -10px 0 0 0;
+}
+
+.menuDivTop {
+  color: #8A8A8A;
+  background-color: #EEEEEE;
+  margin-top: -5px;
+}
+
+.menuDiv {
+  color: #8A8A8A;
+  background-color: #EEEEEE;
+  margin: 5px 0;
+}
+
+.footerBackground {
+  background-color: #C8C8C8;
+  margin: 70px 0 0 0;
+  padding: 0 0 30px 0;
+}
+
+.footerCopyright {
+  padding: 20px 0;
+}
+
+.footerBkgnd {
+  background-color: #B1DEE8;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#B0EAB7),to(#B1DEE8));
+  background-image: -webkit-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:    -moz-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:     -ms-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:      -o-linear-gradient(top,#B0EAB7,#B1DEE8);
+  background-image:         linear-gradient(top,#B0EAB7,#B1DEE8);
+}
+
+.pressBlock {
+  height: 90px;
+  margin-top: 25px;
+  background-color: #FFFFFF;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#F5F5F5),to(#FFFFFF));
+  background-image: -webkit-linear-gradient(top,#F5F5F5,#FFFFFF);
+  background-image:    -moz-linear-gradient(top,#F5F5F5,#FFFFFF);
+  background-image:     -ms-linear-gradient(top,#F5F5F5,#FFFFFF);
+  background-image:      -o-linear-gradient(top,#F5F5F5,#FFFFFF);
+  background-image:         linear-gradient(top,#F5F5F5,#FFFFFF);
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}

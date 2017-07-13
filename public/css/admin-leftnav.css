@@ -1,0 +1,24 @@
+#left-nav {
+  position: relative;
+}
+#left-nav ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+#left-nav ul li a {
+  background-color: #247392;
+  border-bottom: 1px solid #154354;
+  border-top: 1px solid #61a3bb;
+  color: white;
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+}
+#left-nav ul li a:hover {
+  background-color: #1d586f;
+}
+#left-nav ul li:last-of-type a {
+  border-bottom: 1px solid #154354;
+}

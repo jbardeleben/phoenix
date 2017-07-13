@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.vscode/
+desktop.ini
+.env.example
+_readme.txt
+/public/web.config
+/public/favicon.ico
+/public/js/parsley.js
+/public/js/PersonES5.js
+/public/js/PersonES6.js
+/public/js/richedit.js
+/public/js/rteditor.js
+/database/migrations

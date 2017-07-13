@@ -1,0 +1,175 @@
+@charset "utf-8";
+/*
+ * Testing in Chrome, will need to use the -webkit- prefixes
+ * -----------------------------------------------------------------------------
+ * This style sheet is for my custom button bar styles
+ */
+
+ .el-btn {
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+	        border-radius: 3px;
+ }
+.el-btn,
+.el-btn-bar {  /* base class */
+	font-family: "Helvetica", "Arial", sans-serif;
+	text-decoration: none;
+	outline: none;
+	border: 1px solid #999999;
+	
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	
+	background-color: #F5F5F5;
+	background-image: -webkit-linear-gradient(top,#F5F5F5,#C4C4C4);
+	background-image:    -moz-linear-gradient(top,#F5F5F5,#C4C4C4);
+	background-image:     -ms-linear-gradient(top,#F5F5F5,#C4C4C4);
+	background-image:      -o-linear-gradient(top,#F5F5F5,#C4C4C4);
+	background-image:         linear-gradient(top,#F5F5F5,#C4C4C4);
+	
+	-webkit-transition: all 0.218s;
+	   -moz-transition: all 0.218s;
+	        transition: all 0.218s;
+	
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+}
+.el-primary {  /* base class */
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	outline: none;
+	border: 1px solid #2E6dA4;
+	
+	background-color: #5B81FF;
+	background-image: -webkit-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:    -moz-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:     -ms-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:      -o-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:         linear-gradient(top,#5B81FF,#5B81FF);
+	
+	-webkit-transition: all 0.218s;
+	   -moz-transition: all 0.218s;
+	        transition: all 0.218s;
+	
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+}
+
+.el-btn:hover,
+.el-btn-bar:hover { /* base hover class */
+	color: #222222;
+	text-decoration: none;
+	outline: none;
+	border: 1px solid #888888;
+	
+	background-color: #EFEFEF;
+	background-image: -webkit-linear-gradient(top,#EFEFEF,#BABABA);
+	background-image:    -moz-linear-gradient(top,#EFEFEF,#BABABA);
+	background-image:     -ms-linear-gradient(top,#EFEFEF,#BABABA);
+	background-image:      -o-linear-gradient(top,#EFEFEF,#BABABA);
+	background-image:         linear-gradient(top,#EFEFEF,#BABABA);
+	
+	-webkit-transition: all 0.218s;
+	   -moz-transition: all 0.218s;
+	        transition: all 0.218s;
+	
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+}
+
+.el-btn:active,
+.el-btn-bar:active { /* base active class */
+	color: #001781;
+	text-decoration: none;
+	outline: none;
+	border: 1px solid #2E6dA4;
+	
+	background-color: #5B81FF;
+	background-image: -webkit-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:    -moz-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:     -ms-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:      -o-linear-gradient(top,#5B81FF,#5B81FF);
+	background-image:         linear-gradient(top,#5B81FF,#5B81FF);
+	
+	-webkit-transition: all 0.218s;
+	   -moz-transition: all 0.218s;
+	        transition: all 0.218s;
+	
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+}
+
+.el-btn:visited,
+.el-btn-bar:visited {
+	text-decoration: none;
+}
+
+.el-just {  /* base justify */
+	width: 100%;
+}
+
+
+.btn-bar {
+	padding: 0;
+}
+.btn-bar button {
+	margin: -5px;
+}
+.btn-bar button:first-child {
+	margin-left: 0;
+	-webkit-border-top-left-radius: 5px;
+	        border-top-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	        border-bottom-left-radius: 5px;
+}
+.btn-bar button:last-child {
+	-webkit-border-top-right-radius: 5px;
+	        border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	        border-bottom-right-radius: 5px;
+}
+
+
+.el-btn-xs {
+	font-size: 0.65em;
+	color: #333333;
+	padding: 2px 8px;
+}
+.el-btn-sm {
+	font-size: 0.85em;
+	color: #333333;
+	padding: 3px 10px;
+}
+.el-button {
+	font-size: 1.0em;
+	color: #333333;
+	padding: 3px 17px;
+}
+.el-btn-md {
+	font-size: 1.2em;
+	color: #333333;
+	padding: 6px 34px;
+}
+.el-btn-lg {
+	font-size: 1.5em;
+	color: #333333;
+	padding: 12px 68px;
+}
+.el-btn-xl {
+	font-size: 1.9em;
+	color: #333333;
+	padding: 24px 136px;
+}
+
+
+.el-btn-md-primary {
+	font-size: 1.2em;
+	color: #E2E2E2;
+	padding: 6px 34px;
+}
