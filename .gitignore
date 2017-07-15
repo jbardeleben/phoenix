@@ -5,7 +5,6 @@ Homestead.json
 .env
 .vscode/
 desktop.ini
-.env.example
 _readme.txt
 /public/web.config
 /public/favicon.ico
@@ -14,4 +13,3 @@ _readme.txt
 /public/js/PersonES6.js
 /public/js/richedit.js
 /public/js/rteditor.js
-/database/migrations
